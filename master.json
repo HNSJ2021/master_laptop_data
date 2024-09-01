@@ -11,14 +11,14 @@
       "name": "i5 11 gen",
       "brand": "ASUS",
       "sales": 1200,
-      "description": "With a vibrant 15.6-inch 4K screen, Laptop B is perfect for media enthusiasts. Powered by an AMD Ryzen 7 CPU, 16GB RAM, and a 512GB SSD, it delivers exceptional speed and graphics for gaming and creative work"
+      "description": "With a vibrant 15.6-inch 4K screen, Laptop B is perfect for media enthusiasts. Powered by an AMD Ryzen 7 CPU, 16GB RAM, and a 512GB SSD, it delivers exceptional speed and graphics for gaming and creative work."
     },
     {
       "id": 3,
       "name": "i7 13 gen",
       "brand": "Acer",
       "sales": 1500,
-      "description": "Laptop C is a lightweight, ultraportable device with a 13-inch Retina display, an Intel Core i7 processor, 16GB RAM, and a 1TB SSD. It combines performance with portability, making it a great choice for on-the-go professionals."
+      "description": "Laptop acer is a lightweight, ultraportable device with a 13-inch Retina display, an Intel Core i7 processor, 16GB RAM, and a 1TB SSD. It combines performance with portability, making it a great choice for on-the-go professionals."
     },
     {
       "id": 4,
@@ -32,7 +32,34 @@
       "name": "i7 13 gen",
       "brand": "MSI",
       "sales": 1500,
-      "description": "Laptop E offers a versatile experience with a 2-in-1 12.5-inch touchscreen, an Intel Core M processor, 4GB RAM, and a 128GB SSD. Perfect for those who need both a laptop and a tablet in one compact device."
+      "description": "Laptop msi offers a versatile experience with a 2-in-1 12.5-inch touchscreen, an Intel Core M processor, 4GB RAM, and a 128GB SSD. Perfect for those who need both a laptop and a tablet in one compact device."
+    },
+    {
+      "id": 6,
+      "name": "MacBook Pro",
+      "brand": "Apple",
+      "sales": 2000,
+      "description": "The MacBook Pro features a 16-inch Retina display, an Apple M1 Pro chip, 16GB RAM, and a 512GB SSD. With its powerful performance and stunning display, it's ideal for creative professionals and power users."
+    },
+    {
+      "id": 7,
+      "name": "ThinkPad X1 Carbon",
+      "brand": "Lenovo",
+      "sales": 1300,
+      "description": "Laptop G is an ultrabook with a 14-inch Full HD display, an Intel Core i7 processor, 16GB RAM, and a 512GB SSD. It's known for its durability, lightweight design, and strong security features, making it perfect for business users."
+    },
+    {
+      "id": 8,
+      "name": "Chromebook Spin",
+      "brand": "Acer",
+      "sales": 900,
+      "description": "Laptop acer is a 2-in-1 convertible with a 13.3-inch Full HD touchscreen, an Intel Core i5 processor, 8GB RAM, and a 128GB SSD. It runs on Chrome OS and is designed for users who need a flexible, budget-friendly device."
+    },
+    {
+      "id": 9,
+      "name": "Surface Laptop 4",
+      "brand": "Microsoft",
+      "sales": 1100,
+      "description": "The Surface Laptop 4 comes with a 15-inch PixelSense display, an AMD Ryzen 5 processor, 8GB RAM, and a 256GB SSD. It offers a balance of performance, portability, and premium design, ideal for both work and play."
     }
-  ]
-  
+]
