@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "i3",
+      "brand": "Dell",
+      "sales": 1500,
+      "description": "The Laptop A features a sleek design with a 14-inch Full HD display, an Intel Core i5 processor, 8GB RAM, and a 256GB SSD. Ideal for both productivity and casual use, it offers fast performance and long battery life."
+    },
+    {
+      "id": 2,
+      "name": "i5 11 gen",
+      "brand": "ASUS",
+      "sales": 1200,
+      "description": "With a vibrant 15.6-inch 4K screen, Laptop B is perfect for media enthusiasts. Powered by an AMD Ryzen 7 CPU, 16GB RAM, and a 512GB SSD, it delivers exceptional speed and graphics for gaming and creative work"
+    },
+    {
+      "id": 3,
+      "name": "i7 13 gen",
+      "brand": "Acer",
+      "sales": 1500,
+      "description": "Laptop C is a lightweight, ultraportable device with a 13-inch Retina display, an Intel Core i7 processor, 16GB RAM, and a 1TB SSD. It combines performance with portability, making it a great choice for on-the-go professionals."
+    },
+    {
+      "id": 4,
+      "name": "i5 12 gen",
+      "brand": "HP",
+      "sales": 1500,
+      "description": "Designed for gamers, Laptop D boasts a 17.3-inch Full HD display, an Intel Core i9 processor, 32GB RAM, and a 1TB SSD. Its dedicated NVIDIA GeForce RTX graphics ensure smooth gameplay and immersive visuals."
+    },
+    {
+      "id": 5,
+      "name": "i7 13 gen",
+      "brand": "MSI",
+      "sales": 1500,
+      "description": "Laptop E offers a versatile experience with a 2-in-1 12.5-inch touchscreen, an Intel Core M processor, 4GB RAM, and a 128GB SSD. Perfect for those who need both a laptop and a tablet in one compact device."
+    }
+  ]
+  
